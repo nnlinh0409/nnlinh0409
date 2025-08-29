@@ -13,4 +13,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhatLinh&layout=compact)
 
 ## 🎬 Fun GIF  
-<img src="https://www.behance.net/gallery/26810225/Binary-Code-on-a-Computer-Screen/modules/175124527" width="500"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif" width="500"/>
